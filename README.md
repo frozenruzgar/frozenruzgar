@@ -15,13 +15,14 @@ Kod, fikirler ve yeni denemeler için kişisel alanım.
 
 ### 🧊 Burada neler var?
 
-Bot projeleri, araçlar ve denemeler. Aşağıdan herkese açık projeme göz atabilirsin.
+Bot projeleri, araçlar ve QR menü çalışmalarım.
 
-### ⚡ Proje
+### ⚡ Projeler
 
 | Proje | Bağlantı |
 | :--- | :--- |
-| 📂 **Arşiv Bot İndirme** | [İndir ve incele →](https://github.com/frozenruzgar/ar-iv-bot-indirme) |
+| 🍽️ **QR Menü Hizmeti** | [Depoyu incele →](https://github.com/frozenruzgar/qr-menu-hizmeti) |
+| 📂 **Arşiv Botu** | [İndir ve incele →](https://github.com/frozenruzgar/arsiv-bot) |
 
 ### 🌐 Bağlantılar
 
@@ -34,9 +35,3 @@ Yeni projeler ve güncellemeler için [GitHub üzerinden takip et](https://githu
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:164e63,100:22d3ee&height=100&section=footer" alt="footer" />
 
 </div>
-Bot projeleri, araçlar ve QR menü çalışmalarım.
-### ⚡ Projeler
-| Proje | Bağlantı |
-| :--- | :--- |
-| 🍽️ **QR Menü Hizmeti** | [Depoyu incele →](https://github.com/frozenruzgar/qr-menu-hizmeti) |
-| 📂 **Arşiv Botu** | [Depoyu incele →](https://github.com/frozenruzgar/arsiv-bot) |
