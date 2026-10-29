@@ -15,14 +15,13 @@ Kod, fikirler ve yeni denemeler için kişisel alanım.
 
 ### 🧊 Burada neler var?
 
-Bot projeleri, araçlar ve denemeler. Aşağıdan herkese açık projelerime göz atabilirsin.
+Bot projeleri, araçlar ve denemeler. Aşağıdan herkese açık projeme göz atabilirsin.
 
-### ⚡ Projeler
+### ⚡ Proje
 
 | Proje | Bağlantı |
 | :--- | :--- |
-| 🤖 **Bot Merkezi 2** | [Depoyu incele →](https://github.com/frozenruzgar/bot-merkezi-2) |
-| 📂 **Arşiv Bot İndirme** | [Depoyu incele →](https://github.com/frozenruzgar/ar-iv-bot-indirme) |
+| 📂 **Arşiv Bot İndirme** | [İndir ve incele →](https://github.com/frozenruzgar/ar-iv-bot-indirme) |
 
 ### 🌐 Bağlantılar
 
